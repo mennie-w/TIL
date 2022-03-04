@@ -4,7 +4,7 @@ Today I Learned :)
 
 ## Index
 
-1. Window SetUp[#1-Window-SetUp]
+1. [Window SetUp](#1-window-setup)
 
 ## 1. Window SetUp
 
